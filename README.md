@@ -1,5 +1,5 @@
 # Unet2pulseprocessing Project
-U-net for pulse processing.
+U-net for the processing of pulses from particle detectors.
 
 List of files:
 - *unfodeep1.py*. Main code in Python. Tested with Tensorflow version 2.1.0 and 2.4.1.
